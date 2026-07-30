@@ -1,0 +1,16 @@
+{
+  "name": "FarmaAgent",
+  "description": "An AI-powered Smart Farming Assistant that provides personalized crop recommendations, weather insights, pest and disease detection, irrigation guidance, and market analysis using IBM watsonx.ai, IBM Granite Models, and RAG.",
+  "version": "1.0.0",
+  "author": "Your Name",
+  "license": "MIT",
+  "technologies": [
+    "IBM watsonx.ai",
+    "IBM Granite Models",
+    "IBM watsonx Orchestrate",
+    "LangFlow",
+    "RAG",
+    "FAISS",
+    "Python"
+  ]
+}
